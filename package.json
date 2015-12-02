@@ -1,0 +1,19 @@
+{
+  "name": "do",
+  "version": "1.0.0",
+  "description": "DO - delivery optimization",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giau Tran Minh <giau.tmg@gmail.com> (https://fb.com/giau.tm)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "fast-csv": "^0.6.0",
+    "kerberos": "0.0.17",
+    "mongodb": "^2.0.48",
+    "mongoose": "^4.2.5",
+    "node-gyp": "^3.0.3"
+  }
+}
